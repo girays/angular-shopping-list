@@ -18,4 +18,5 @@
   ng generate component shopping-list
   ng generate component shopping-list/shopping-edit
 
-  
+- git push command
+  git push https://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@github.com/girays/angular-shopping-list.git
