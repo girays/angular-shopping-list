@@ -1,0 +1,21 @@
+- ng new PROJECT  
+  Used to create a new Angular project.
+
+
+- E:\udemy\angular\shopping-list>npm install --save bootstrap@3
+
+
+- re-run "ng serve" after installing bootstrap
+  E:\udemy\angular\shopping-list>ng serve
+
+- Create Components
+
+  E:\udemy\angular\shopping-list>ng generate component header
+  ng generate component recipes
+  ng generate component recipes/recipe-list
+  ng generate component recipes/recipe-list/recipe-item
+  ng generate component recipes/recipe-detail
+  ng generate component shopping-list
+  ng generate component shopping-list/shopping-edit
+
+  
