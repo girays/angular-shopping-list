@@ -20,3 +20,9 @@
 
 - git push command
   git push https://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@github.com/girays/angular-shopping-list.git
+
+- After cloning the angular project to a new machine
+  Follow the below commands:
+  - cd 'your project name...'
+  - npm install    # install the packages and dependencies.
+  - ng serve
